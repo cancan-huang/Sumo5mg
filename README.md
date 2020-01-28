@@ -35,7 +35,7 @@ Welcome to connect me in [LinkedIn](https://www.linkedin.com/in/cancanhuang/)
 
 ## Consulting Report
 * [The case answer for ABC training camp](https://github.com/cancan-huang/CancanHuang.github.io/blob/master/%E7%AB%8B%E5%BF%83%E5%85%AC%E7%9B%8A%E7%BB%84%E7%BB%87%E7%AE%A1%E7%90%86%E8%83%BD%E5%8A%9B%E4%B8%8E%E8%BF%90%E8%90%A5%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E9%A1%B9%E7%9B%AE%E6%B1%87%E6%8A%A5_C%E7%BB%84%EF%BC%88%E6%96%B0%EF%BC%89.pdf)
-* [The case answer for ABC program selection]()
+* [The case answer for ABC program selection](https://github.com/cancan-huang/CancanHuang.github.io/blob/master/ABC%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E9%A2%98-%E6%9C%80%E7%BB%88.pdf)
 
 
 ## Skills and Certificates
