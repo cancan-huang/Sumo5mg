@@ -1,26 +1,27 @@
-## Cancan Huang
-Applied Social Data Science Student at LSE
-Welcome to connect me in [LinkedIn](www.linkedin.com/in/cancanhuang)
+# Cancan Huang    
+
+**Applied Social Data Science Student at LSE**    
+Welcome to connect me in [LinkedIn](linkedin.com/in/cancanhuang)
 
 ## Education
 
-### London School of Economics and Political Science, MSc Applied Social Data Science                        Present
-•	Relevant courses: Computer Programming (Python); Data for Data Scientists(R\SQL); Applied Regression Analysis; Quantitative Text Analysis (Machine Learning)
+### London School of Economics and Political Science, MSc Applied Social Data Science                      
+* Relevant courses: Computer Programming (Python); Data for Data Scientists(R\SQL); Applied Regression Analysis; Quantitative Text Analysis (Machine Learning)
 
-### Renmin University of China, MSc International Political Economy                            Sept. 2017-Jun. 2019
-•	GPA 3.98/4.0
-•	Relevant courses: Quantitative Political Analysis, Game Theory, Political Economy of International Trade
-•	Honors: Outstanding Graduate (Top 10%); RUC Scholarship (1st prize; Top 5%)
+### Renmin University of China, MSc International Political Economy                           
+* GPA 3.98/4.0
+* Relevant courses: Quantitative Political Analysis, Game Theory, Political Economy of International Trade
+* Honors: Outstanding Graduate (Top 10%); RUC Scholarship (1st prize; Top 5%)
 
-### Cambridge University, Girton College, Summer Program                                       Aug. 2018-Sept. 2018
-•	Courses: Business Strategy(A), The Economic and Political History of Britain since 1945(A)
+### Cambridge University, Girton College, Summer Program                                     
+* Courses: Business Strategy(A), The Economic and Political History of Britain since 1945(A)
 
-### Central University of Finance and Economics, BSc International Politics                    Sept. 2013-Jun. 2017
-•	GPA 90.3/100
-•	Relevant courses: Database Principle and Applications, Calculus, Probability and Statistics, Methodology of Political Science 
-•	Honors: School-level Outstanding Graduate (Top 10%); CUFE Scholarship (1st prize; Top 5%); CUFE Academic Thesis Competition (1st prize); CUFE Award for Academic Research; School-level Debate Champion
+### Central University of Finance and Economics, BSc International Politics                   
+* GPA 90.3/100    
+* Relevant courses: Database Principle and Applications, Calculus, Probability and Statistics, Methodology of Political Science 
+* Honors: School-level Outstanding Graduate (Top 10%); CUFE Scholarship (1st prize; Top 5%); CUFE Academic Thesis Competition (1st prize); CUFE Award for Academic Research; School-level Debate Champion
 
-# To Be Continued
+### To Be Continued
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
