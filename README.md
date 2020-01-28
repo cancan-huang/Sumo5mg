@@ -37,18 +37,12 @@ Welcome to connect me in [LinkedIn](https://www.linkedin.com/in/cancanhuang/)
 * Language: English (Professional working proficiency); Mandarin (Native)
 * Certificates: Python for Data Science by IBM on Coursera; Data Analysis with Python by IBM on Coursera
 
+
+## Details
+Email: huangcan0928@163.com
+
+
+
 ## To Be Continued
 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cancan-huang/CancanHuang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
