@@ -31,7 +31,7 @@ Welcome to connect me in [LinkedIn](https://www.linkedin.com/in/cancanhuang/)
 
 ## Industry Report
 * Guangfa Security,[The analysis of Sun Paper Company](http://pdf.dfcfw.com/pdf/H3_AP201806061153206605_1.pdf)
-* 
+* Economic Policies of Hainan Province(personal research, not formal materials)
 
 ## Skills and Certificates
 
