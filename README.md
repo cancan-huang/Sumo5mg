@@ -1,7 +1,7 @@
 # Cancan Huang    
 
 **Applied Social Data Science Student at LSE**    
-Welcome to connect me in [LinkedIn](linkedin.com/in/cancanhuang)
+Welcome to connect me in [LinkedIn](https://www.linkedin.com/in/cancanhuang/)
 
 ## Education
 
