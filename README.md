@@ -21,24 +21,24 @@ Welcome to connect me in [LinkedIn](https://www.linkedin.com/in/cancanhuang/)
 * Relevant courses: Database Principle and Applications, Calculus, Probability and Statistics, Methodology of Political Science 
 * Honors: School-level Outstanding Graduate (Top 10%); CUFE Scholarship (1st prize; Top 5%); CUFE Academic Thesis Competition (1st prize); CUFE Award for Academic Research; School-level Debate Champion
 
-### To Be Continued
+## Quantitative Projects
+* Participated in ‘Study on Overseas Investment Risks of China's Power Industry Project’, used Python to build the analysis model and measure the investment risks in 35 countries.
+* Used R and SQL to conduct sentiment analysis of tweets comments from 2015 to 2016, visualized how the negativity developed. 
+* Utilized Python to analyze PUBG cheating data and built a model to figure out whether victims of cheaters were more likely to become a cheater. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
+* YiMing S, Cancan H, Qi C. [The Quantitative Measurement of Comprehensive National Power](http://www.qikanchina.net/thesis/detail/1655944)[J]. Market Forum, 2016,07:48-52. 
 
-```markdown
-Syntax highlighted code block
+## Articles
 
-# Header 1
-## Header 2
-### Header 3
+## Skills and Certificates
 
-- Bulleted
-- List
+* IT: Python (Intermediate); R (Intermediate); SPSS (Advanced); Microsoft Excel (Advanced); PowerPoint (Advanced)
+* Language: English (Professional working proficiency); Mandarin (Native)
+* Certificates: Python for Data Science by IBM on Coursera; Data Analysis with Python by IBM on Coursera
 
-1. Numbered
-2. List
+## To Be Continued
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
