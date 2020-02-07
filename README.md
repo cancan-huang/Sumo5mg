@@ -55,6 +55,7 @@ hierarchy process and calculating the ranking of comprehensive national power of
 
 ## Thoughts and Ariticles
 * [Reading notes of politcial thoughts](https://github.com/cancan-huang/CancanHuang.github.io/tree/master/reading%20notes)
+* *Published articles*
 
 ## Skills and Certificates
 
